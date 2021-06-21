@@ -1,0 +1,15 @@
+.line1{
+	background: rgb(0, 0, 255);
+	color: orange;
+	opacity:0.5;
+	font-family:"Times New Roman", serif;
+}
+.line2{
+	
+	font-family:"Arial", sans-serif;
+}
+.line3{
+	background-color: #FFFF00 ;
+	text-shadow: 3px 3ps 6px #000000;
+}
+	
